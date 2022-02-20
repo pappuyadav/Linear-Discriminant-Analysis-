@@ -16,7 +16,6 @@ from sklearn.datasets import make_classification
 from sklearn.model_selection import cross_val_score
 from sklearn.model_selection import RepeatedStratifiedKFold
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis as LDA
-from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis as QDA
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
